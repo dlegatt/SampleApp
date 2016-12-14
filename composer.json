@@ -1,0 +1,16 @@
+{
+    "name": "legattd/sample-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "David Legatt",
+            "email": "legattd@ncbpinc.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Legattd\\": "src/"
+        }
+    }
+}
